@@ -367,3 +367,9 @@ footer{
 }
 
 
+@media all and (width <= 960px)
+{
+    .secImg{
+        flex-direction: column;
+    }
+}
